@@ -1,0 +1,21 @@
+Domaci
+1.Da bi mogli da radimo sa razlicitim vrstama informacija .
+3.Varijable u programiranju se koriste za skladistenje podataka na racunaru pod jedinstvenim imenima .
+4.Immutable znaci da vrijednost ne moze biti promijenjena .String immutable ostaje ista i posle neke funkcije ,ali je promijenjena samo u toj funkciji.
+5.1.True
+  2.False
+  3.True
+  4.False
+  5.False
+6.	1.Napravit cemo varijablu recenica = 'ispit' . Pa cemo dodati tekst na varijablu recenica = 'popravni' + recenica i printovat cemo 
+	recenicu.
+	2.Napravit cemo varijablu m = 'Virtuelna realnost' , napravit cemo varijablu izdvojena_rijec = m(10:) . Sto nam omogucava da 
+	 printujemo samo izdvojena_rijec.
+	3.Ovdje ce nam oduzeti prva tri i zadnja tri slova i odstampat ce to izmedju. 'as je vanredni is'
+	4.Ovdje cemo dobit tpiidra jsnD .
+	5.izdvoj = recenica[-3:]
+7.	
+	1.Liste se koriste za laksu organizaciju i citljivost koda .
+	2.Rezultat ce biti 3 ,jer brojimo koliko ima vrijednosti u listi.
+	3.Rezultat ce biti 3 ,jer brojimo svaku drugu vrijednost u listi od prve vrijednosti.
+	4.Rezultat ce bit [2,5,7] ,jer broji sve do zadnje vrijednosti.
